@@ -28,11 +28,11 @@ identified process improvement initiatives
 
 * Assisted in the development, training and execution of Agile-based methodology used to facilitate two-week
 global SAP workshops in France, Germany, and the US
-* Co-led 6 training sessions for 400+ individuals on Agile-based workshop methodology, answered process
-questions, assisted in team impediment removal while onsite, and gathered Retrospective results
+*Co-led 6 training sessions for 400+ individuals on Agile-based workshop methodology, answered process
+question
+s, assisted in team impediment removal while onsite, and gathered Retrospective results
 * Jira Administrator providing access, training, and ongoing tool support 
-* Created internal team Confluence Wiki site used to streamline team onboarding process and improve team
-communication and planning
+
 
 **3M Onboarding Coordinator via Boom Lab** July 2015 - July 2016
 
@@ -52,3 +52,10 @@ and documentation of tool FAQ
 for at-risk teens, through a fundraising competition between 15 branch bank locations
 * Conducted gap-analysis on mobile and private banking platform and presented key findings and
 recommendations to leadership
+
+## Education 
+* Gustavus Adolphus College, 2015
+* Major: Psychology; Minors: Economics and Neuroscience
+
+## Skills
+Agile Methodology, Training, Coaching, Empowering teams, Meeting facilitation, Documentation, Collaboration, Presentation planning, Relationship management
