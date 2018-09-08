@@ -8,6 +8,10 @@
 
 ## Experience
 
+**3M Agile Coach** (June 2018 - Present)
+* Agile coach for supply chain portfolio (45+ teams) focusing on empowering teams to achieve greater agility through hands-on training, coaching, mentoring, and through scrum master community of practice 
+* Enhanced collaboration and learning of Scrum Masters through creation of online Microsoft Teams, and the creation of a video series on Jira tips and tricks and Agile Best Practices 
+
 **3M Digital Marketing Scrum Master via Boom Lab** (February 2018 - June 2018)
 
 * Scrum Master for two co-located Digital Marketing teams focused on improving the 3M online experience
@@ -28,9 +32,8 @@ identified process improvement initiatives
 
 * Assisted in the development, training and execution of Agile-based methodology used to facilitate two-week
 global SAP workshops in France, Germany, and the US
-*Co-led 6 training sessions for 400+ individuals on Agile-based workshop methodology, answered process
-question
-s, assisted in team impediment removal while onsite, and gathered Retrospective results
+* Co-led 6 training sessions for 400+ individuals on Agile-based workshop methodology, answered process
+questions, assisted in team impediment removal while onsite, and gathered Retrospective results
 * Jira Administrator providing access, training, and ongoing tool support 
 
 
