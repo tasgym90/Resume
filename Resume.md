@@ -8,7 +8,7 @@
 
 ## Experience
 
-**3M Agile Coach** (June 2018 - Present)
+**3M Agile Coach Analyst** (June 2018 - Present)
 * Agile coach for supply chain portfolio (45+ teams) focusing on empowering teams to achieve greater agility through hands-on training, coaching, mentoring, and through scrum master community of practice 
 * Enhanced collaboration and learning of Scrum Masters through creation of online Microsoft Teams, and the creation of a video series on Jira tips and tricks and Agile Best Practices 
 
